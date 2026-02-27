@@ -5,16 +5,18 @@ Satzung des Vereins Antinous e.V.
 §2 - Name und Sitz des Vereins
 1. Der Verein führt den Namen: "Antinous e.V."
 2. Sitz des Vereins ist Berlin Schöneberg-Tempelhof.
+3. -- gestrichen --
 §3 - Mitgliedschaft
 1. Der Verein ist offen für alle Personen, die Mitglied werden wollen.
 2. Die Mitgliedschaft wird auf Antrag durch die Mitgliederversammlung bestätigt.
-3. Der Rechtsweg ist ausgeschlossen.
-4. Mitglieder des Antinous-Vereins leben in den Räumen der Gemeinschaft.
-5. Die Mitgliedschaft endet
-6. 1.) durch Tod,
-7. 2.) durch Auszug,
-8. 3.) durch förmliche Ausschließung, die nur durch Beschluß der Mitgliederversammlung erfolgen kann.
-9. Näheres regelt die Geschäftsordnung.
+3. -- gestrichen ---
+4. Der Rechtsweg ist ausgeschlossen.
+5. Mitglieder des Antinous-Vereins leben in den Räumen der Gemeinschaft.
+6. Die Mitgliedschaft endet
+7. 1.) durch Tod,
+8. 2.) durch Auszug,
+9. 3.) durch förmliche Ausschließung, die nur durch Beschluß der Mitgliederversammlung erfolgen kann.
+10. Näheres regelt die Geschäftsordnung.
 §4 - Paten
 1. Paten können formlos alle Personen werden, die den Zweck des Vereins unterstützen wollen.
 2. Bei Benutzung der Vereinsleistungen ist jeweils der von der Mitgliederversammlung festgelegte Betrag zu entrichten.
@@ -29,7 +31,8 @@ Satzung des Vereins Antinous e.V.
 3. und die Verwaltung des Vereinsvermögens.
 4. Er vertritt den Verein nach außen.
 5. Er ernennt den Schriftführer und den Kassenwart.
-6. Er lädt schriftlich zur Mitgliederversammlung ein.
+6. -- gestrichen --
+7. Er lädt schriftlich zur Mitgliederversammlung ein.
 §7 - Die Mitgliederversammlung
 1. Die Mitgliederversammlung ist das höchste beschlußfähige Gremium des Vereins.
 2. Sie wählt den Vorstand einmal pro Kalenderjahr mit einfacher Mehrheit der existierenden Mitglieder.
