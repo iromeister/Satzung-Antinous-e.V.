@@ -1,7 +1,8 @@
-Satzung des Vereins Antinous e.V.
+Satzung des Vereins Antinous e.V.: Satzungsänderung errichtet am 8.8.2017
 §1 - Zweck des Vereins
 1. Der Verein Antinous bezweckt die Förderung ganzheitlicher, meditativer und tantrischer Lebensgestaltung.
 2. Mitglieder stimmen mit dem Ziel des Vereins überein.
+3. Zur Verwirklichung des Vereinszwecks ermöglicht und fördert der Verein das Zusammenleben nach tantrischen Prinzipien, veranstaltet Workshops, Seminare und Fortbildungen zur Vermittlung des tantrischen Wissens und bietet tantrische Gesundheitsanwendungen an.
 §2 - Name und Sitz des Vereins
 1. Der Verein führt den Namen: "Antinous e.V."
 2. Sitz des Vereins ist Berlin Schöneberg-Tempelhof.
@@ -16,7 +17,9 @@ Satzung des Vereins Antinous e.V.
 7. 1.) durch Tod,
 8. 2.) durch Auszug,
 9. 3.) durch förmliche Ausschließung, die nur durch Beschluß der Mitgliederversammlung erfolgen kann.
-10. Näheres regelt die Geschäftsordnung.
+10. Die Mitgliedschaft endet durch schriftliche Mitteilung an den Vorstand.
+11. Näheres regelt die Geschäftsordnung.
+12. Der Verein erhebt keine Mitgliedsbeiträge.
 §4 - Paten
 1. Paten können formlos alle Personen werden, die den Zweck des Vereins unterstützen wollen.
 2. Bei Benutzung der Vereinsleistungen ist jeweils der von der Mitgliederversammlung festgelegte Betrag zu entrichten.
@@ -29,10 +32,10 @@ Satzung des Vereins Antinous e.V.
 1. Dem Vorstand obliegt die Geschäftsleitung,
 2. die Ausführung der Beschlüsse der Mitgliederversammlung
 3. und die Verwaltung des Vereinsvermögens.
-4. Er vertritt den Verein nach außen.
+4. Die Mehrheit der Vorstandsmitglieder vertritt den Verein nach außen.
 5. Er ernennt den Schriftführer und den Kassenwart.
 6. -- gestrichen --
-7. Er lädt schriftlich zur Mitgliederversammlung ein.
+7. -- gestrichen --
 §7 - Die Mitgliederversammlung
 1. Die Mitgliederversammlung ist das höchste beschlußfähige Gremium des Vereins.
 2. Sie wählt den Vorstand einmal pro Kalenderjahr mit einfacher Mehrheit der existierenden Mitglieder.
@@ -42,14 +45,17 @@ Satzung des Vereins Antinous e.V.
 6. Die ordentliche Mitgliederversammlung beschließt über
 7. 1.) den Jahresbericht und
 8. 2.) den Rechenschaftsbericht des Kassenwartes.
-9. Sämtliche Beschlüsse der Mitgliederversammlung sind zu protokollieren.
+9. Die Mitgliederversammlung wird vom Vorstand durch Bekanntgabe von Ort, Zeit und Tagesordnung schriftlich oder in Textform (E-Mail) einberufen. Zwischen dem Tag der Einladung und dem Tag der Mitgliederversammlung müssen mindestens dreizehn Tage liegen.
+10. Soweit in der Satzung nichts anderes bestimmt ist, entscheidet bei der Beschlussfassung die Mehrheit der abgegebenen Stimmen, wobei Stimmenthaltungen außer Betracht bleiben.
+11. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll zu errichten und von den Versammlungsleitern zu unterschreiben. Dabei sollen Ort und Zeit der Versammlung sowie das jeweilige Abstimmungsergebnis festgehalten werden.
 §8 - Vereinsleistungen
 1. Der Verein stellt seinen Mitgliedern Räume, Werkstätten und Geräte zur Verfügung.
 2. Näheres regelt die Geschäftsordnung.
 3. Der Verein gewährleistet die Benutzung und den Betrieb dieser Einrichtungen.
 4. Über die Verwendung anfallende Gewinne entscheidet die Mitgliederversamlung einmütig.
 §9 - Satzungsänderungen
-1. Satzungsänderungen beschließt die Mitgliederversammlung mit ¾-Mehrheit der existierenden Mitglieder.
+1. Satzungsänderungen beschließt die Mitgliederversammlung mit ¾-Mehrheit der abgegebenen Stimmen.
+2. Zur Änderung des Vereinszwecks ist eine Mehrheit von neun Zehnteln der abgegebenen Stimmen der Mitgliederversammlung erforderlich.
 §10 - Auflösung des Vereins
-1. Die Auflösung erfolgt durch Beschluss der Mitgliederversammlung, dem ¾ der existierenden Mitglieder zustimmen müssen.
+1. Die Auflösung erfolgt durch Beschluss der Mitgliederversammlungmit neun Zehnteln der abgegebenen Stimmen.
 2. Die verbleibenden Vermögenswerte bei Auflösung des Vereins fallen dem Clube Ecológico da Amazônia in Belém/PA/Brasilien zu.
